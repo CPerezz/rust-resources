@@ -9,3 +9,6 @@
 
 ### Complete Rust guides
 - https://blessed.rs/crates A lot of crates and example suggestions for almost all of the imaginable topics that a Rust programmer will face. (Highly recommended!).
+
+### Unofficial Rust patterns
+- https://rust-unofficial.github.io/patterns/ Rust design patterns for lots of applications.
